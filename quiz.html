@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Barra de Navegação -->
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <div class="container">
+            <a class="navbar-brand" href="quem-sou.html">Kauê Rodrigues</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="#navbarNav" aria-expanded="false" aria-label="Togglenavigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="quem-sou.html">Quem sou</a>
+                    </li>
+<!--                <li class="nav-item">
+                        <a class="nav-link" href="contato.html">Entre em Contato</a>
+                    </li>
+                    <li class="nav-item"> -->
+                    <li class="nav-item">
+                        <a class="nav-link" href="trabalhos.html">Meus Trabalhos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="quiz.html">Quiz</a>
+                    </li>
+                </ul>
+            </div>
+        </div>    
+    </nav>
+    <!-- Resto do conteúdo do seu Portfólio -->
+
+    <div class="container">
+        <h1>Quiz</h1>
+        <p id="welcome">Você está pronto para começar?</p>
+        <div class="buttons">
+          <button class="btn btn-success" id="start-game">Sim</button>
+          <button class="btn btn-danger" id="cancel-game">Não</button>
+        </div>
+        <div id="game-area" style="display: none;">
+            <div id="question"></div>
+            <div id="options"></div>
+            <div id="timer">Tempo restante: 30 segundos</div>
+            <div id="score">Pontuação: 0</div>
+        </div>
+        <div id="end-game">
+          <h2>Fim do jogo!</h2>
+          <p id="final-score"></p>
+          <button class="btn btn-primary" id="restart-game">Jogar novamente</button>
+        </div>
+    </div>
+    
+
+
+    <footer class="footer-spacing">
+        <div class="container text-center footer-text">
+            <p>&copy; 2024 Kauê Portfólio. Todos os direitos reservados.</p>
+            <p><a href="politica-de-privacidade.html">Política de Privacidade</a> | <a href="licenca.html">Licença</a></p>
+            <p>Contato: kaue.luan77@gmail.com</p>
+        </div>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>
