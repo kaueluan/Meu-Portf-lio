@@ -9,6 +9,6 @@ No momento, estou me dedicando mais às linguagens HTML, CSS, JavaScript, Python
 📚 Aprendizado Atual: Além da formação (quase concluída) em Gestão de tecnologia da informação, estou fazendo diversos cursos por fora, como na Dio e na Udemy.
 
 📫 Como Entrar em Contato: Meu email é kaue.luan77@gmail.com 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)[Kaue Rodrigues](https://www.linkedin.com/in/kaue-rodrigues-b26281146/)
+[Kauê Rodrigues](https://www.linkedin.com/in/kaue-rodrigues-b26281146/)
 
 ⚡ Curiosidades: Sou casado e adoro passar meu tempo livre com minha familia vendo: filmes, séries, jogos, HQs e tudo que um nerd pode gostar.
